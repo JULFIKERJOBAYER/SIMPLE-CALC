@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*------------
+heading design
+---------------*/
+
+h1{
+    text-align: center;
+    color: darkmagenta;
+    border: 2px solid darkmagenta;
+   border-radius: 10px;
+   width: 350px;
+   margin: 0 auto;
+   margin-top: 20px;
+   padding: 10px;
+}
+
+/*body card design*/
+
+
+.bdiv{
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 0px 10px 15px 0px gray;
+    font-size: 0;
+}
+.bdiv:hover{
+    box-shadow: 0px 20px 30px 0px gray;
+}
+
+/*-------------
+display design
+---------------*/
+
+.display-div #display-id {
+    max-width: 336px;
+    height: 100px;
+    text-align: right;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-right: 10px;
+   background-color: lightcyan;
+   color: darkblue;
+}
+
+/*------------
+button design
+-------------*/
+
+
+.button{
+   width: 87.5px;
+   height: 60px;
+   background-color: black;
+   color: white;
+   font-size: 25px;
+   border: 2px double white;
+   font-weight: bold;
+}
+
+.button-style{
+     background-color:darkcyan;
+     color: black;
+}
+.button-style2{
+     background-color:tomato;
+     color: black;
+}
+.button-style3{
+     background-color:orange;
+     color: black;
+}
+
+.button:hover{
+     background-color: lightblue;
+     color: black;
+}
+.button:active{
+    background-color: white;
+     color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
